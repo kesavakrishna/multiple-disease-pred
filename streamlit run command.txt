@@ -1,1 +1,3 @@
+streamlit run "multiple disease pred.py file directory"
+for example
 streamlit run "C:\Users\kesav\Desktop\Multiple Disease Prediction System\multiple disease pred.py"
